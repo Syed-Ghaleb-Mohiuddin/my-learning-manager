@@ -1,0 +1,36 @@
+# Build outputs
+build/
+app/build/
+.gradle/
+.kotlin/
+captures/
+dist/
+*.apk
+*.aab
+build.log
+
+# Local configuration and credentials
+local.properties
+.env
+.env.*
+!.env.example
+google-services*.json
+google-services*.xml
+*service-account*.json
+*oauth*secret*
+*.sqlite
+*.db
+supabase/.temp/
+supabase/.branches/
+supabase/.seed-ids.txt
+
+# Signing
+*.jks
+*.keystore
+*.p12
+*.pem
+
+# IDE and OS files
+.idea/
+*.iml
+.DS_Store

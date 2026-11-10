@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp" android:height="120dp"
+    android:viewportWidth="120" android:viewportHeight="120">
+    <path android:strokeColor="@color/mascot_ink" android:strokeWidth="6" android:strokeLineCap="round"
+        android:pathData="M42,94 L34,106 M78,94 L86,106" />
+    <path android:fillColor="@color/mood_angry" android:strokeColor="@color/mascot_ink" android:strokeWidth="4"
+        android:pathData="M17,26 a13,13 0 1,0 26,0 a13,13 0 1,0 -26,0 M77,26 a13,13 0 1,0 26,0 a13,13 0 1,0 -26,0" />
+    <path android:fillColor="@color/mascot_ink" android:pathData="M55,12 h10 v10 h-10 z" />
+    <path android:fillColor="@color/mood_angry" android:strokeColor="@color/mascot_ink" android:strokeWidth="4"
+        android:pathData="M20,60 a40,40 0 1,0 80,0 a40,40 0 1,0 -80,0" />
+    <path android:fillColor="@color/mascot_face" android:pathData="M30,60 a30,30 0 1,0 60,0 a30,30 0 1,0 -60,0" />
+    <!-- brows steep -->
+    <path android:strokeColor="@color/mascot_ink" android:strokeWidth="4" android:strokeLineCap="round"
+        android:pathData="M43,44 L56,51 M64,51 L77,44" />
+    <path android:fillColor="@color/mascot_ink"
+        android:pathData="M47,59 a3.5,3.5 0 1,0 7,0 a3.5,3.5 0 1,0 -7,0 M66,59 a3.5,3.5 0 1,0 7,0 a3.5,3.5 0 1,0 -7,0" />
+    <path android:strokeColor="@color/mascot_ink" android:strokeWidth="4" android:strokeLineCap="round"
+        android:pathData="M50,76 Q60,69 70,76" />
+    <!-- ringing: two arcs per bell -->
+    <path android:strokeColor="@color/text" android:strokeWidth="3" android:strokeLineCap="round"
+        android:pathData="M13,10 Q7,18 11,28 M6,6 Q0,18 5,32 M107,10 Q113,18 109,28 M114,6 Q120,18 115,32" />
+</vector>

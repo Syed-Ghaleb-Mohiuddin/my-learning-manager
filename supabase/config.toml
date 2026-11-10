@@ -1,0 +1,5 @@
+project_id = "my-learning-manager"
+
+[functions.record-session]
+# Callers authenticate with x-learning-token, not a Supabase JWT.
+verify_jwt = false

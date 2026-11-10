@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp" android:height="120dp"
+    android:viewportWidth="120" android:viewportHeight="120">
+    <path android:strokeColor="@color/mascot_ink" android:strokeWidth="6" android:strokeLineCap="round"
+        android:pathData="M42,96 L34,110 M78,96 L86,110" />
+    <path android:fillColor="@color/mood_calm" android:strokeColor="@color/mascot_ink" android:strokeWidth="4"
+        android:pathData="M17,28 a13,13 0 1,0 26,0 a13,13 0 1,0 -26,0 M77,28 a13,13 0 1,0 26,0 a13,13 0 1,0 -26,0" />
+    <path android:fillColor="@color/mascot_ink" android:pathData="M55,14 h10 v10 h-10 z" />
+    <path android:fillColor="@color/mood_calm" android:strokeColor="@color/mascot_ink" android:strokeWidth="4"
+        android:pathData="M20,62 a40,40 0 1,0 80,0 a40,40 0 1,0 -80,0" />
+    <path android:fillColor="@color/mascot_face" android:pathData="M30,62 a30,30 0 1,0 60,0 a30,30 0 1,0 -60,0" />
+    <!-- brows (clock hands): level, relaxed -->
+    <path android:strokeColor="@color/mascot_ink" android:strokeWidth="4" android:strokeLineCap="round"
+        android:pathData="M44,51 L55,51 M65,51 L76,51" />
+    <path android:fillColor="@color/mascot_ink"
+        android:pathData="M46,60 a4,4 0 1,0 8,0 a4,4 0 1,0 -8,0 M66,60 a4,4 0 1,0 8,0 a4,4 0 1,0 -8,0" />
+    <path android:strokeColor="@color/mascot_ink" android:strokeWidth="4" android:strokeLineCap="round"
+        android:pathData="M51,72 Q60,79 69,72" />
+</vector>

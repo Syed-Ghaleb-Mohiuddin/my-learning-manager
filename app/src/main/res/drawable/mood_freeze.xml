@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp" android:height="120dp"
+    android:viewportWidth="120" android:viewportHeight="120">
+    <path android:strokeColor="@color/mascot_ink" android:strokeWidth="6" android:strokeLineCap="round"
+        android:pathData="M42,96 L34,110 M78,96 L86,110" />
+    <path android:fillColor="@color/mood_freeze" android:strokeColor="@color/mascot_ink" android:strokeWidth="4"
+        android:pathData="M17,28 a13,13 0 1,0 26,0 a13,13 0 1,0 -26,0 M77,28 a13,13 0 1,0 26,0 a13,13 0 1,0 -26,0" />
+    <!-- ice crystals on the bells -->
+    <path android:strokeColor="@color/mascot_face" android:strokeWidth="2" android:strokeLineCap="round"
+        android:pathData="M30,21 L30,35 M23,28 L37,28 M25,23 L35,33 M35,23 L25,33 M90,21 L90,35 M83,28 L97,28 M85,23 L95,33 M95,23 L85,33" />
+    <path android:fillColor="@color/mascot_ink" android:pathData="M55,14 h10 v10 h-10 z" />
+    <path android:fillColor="@color/mood_freeze" android:strokeColor="@color/mascot_ink" android:strokeWidth="4"
+        android:pathData="M20,62 a40,40 0 1,0 80,0 a40,40 0 1,0 -80,0" />
+    <path android:fillColor="@color/mascot_face" android:pathData="M30,62 a30,30 0 1,0 60,0 a30,30 0 1,0 -60,0" />
+    <!-- sleepy: low flat brows, closed eyes, small o mouth -->
+    <path android:strokeColor="@color/mascot_ink" android:strokeWidth="4" android:strokeLineCap="round"
+        android:pathData="M44,53 L55,53 M65,53 L76,53 M45,61 L54,61 M66,61 L75,61" />
+    <path android:strokeColor="@color/mascot_ink" android:strokeWidth="3"
+        android:pathData="M57,71 a3,3 0 1,0 6,0 a3,3 0 1,0 -6,0" />
+    <!-- scarf -->
+    <path android:fillColor="@color/mood_scarf" android:strokeColor="@color/mascot_ink" android:strokeWidth="3"
+        android:strokeLineJoin="round"
+        android:pathData="M25,80 Q60,94 95,80 L93,90 Q60,104 27,90 Z M68,93 L72,110 L81,107 L77,91 Z" />
+</vector>

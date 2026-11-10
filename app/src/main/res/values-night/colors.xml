@@ -1,0 +1,12 @@
+<resources>
+    <!-- Dark is the primary look (vision direction B). Light variant lives in values/colors.xml. -->
+    <color name="bg">#14161B</color>
+    <color name="card">#1F232B</color>
+    <color name="text">#F4EFE6</color>
+    <color name="text_muted">#9AA0AB</color>
+    <color name="session">#C6F432</color>
+    <color name="freeze">#7FD4FF</color>
+    <color name="gap">#2C313B</color>
+    <color name="future">#22262E</color>
+    <color name="anger">#FF6B4A</color>
+</resources>

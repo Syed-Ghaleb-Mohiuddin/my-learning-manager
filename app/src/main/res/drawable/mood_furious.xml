@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp" android:height="120dp"
+    android:viewportWidth="120" android:viewportHeight="120">
+    <path android:strokeColor="@color/mascot_ink" android:strokeWidth="6" android:strokeLineCap="round"
+        android:pathData="M42,92 L32,102 M78,92 L88,102" />
+    <path android:fillColor="@color/mood_furious" android:strokeColor="@color/mascot_ink" android:strokeWidth="4"
+        android:pathData="M15,24 a13,13 0 1,0 26,0 a13,13 0 1,0 -26,0 M79,24 a13,13 0 1,0 26,0 a13,13 0 1,0 -26,0" />
+    <path android:fillColor="@color/mascot_ink" android:pathData="M55,10 h10 v10 h-10 z" />
+    <path android:fillColor="@color/mood_furious" android:strokeColor="@color/mascot_ink" android:strokeWidth="4"
+        android:pathData="M20,58 a40,40 0 1,0 80,0 a40,40 0 1,0 -80,0" />
+    <path android:fillColor="@color/mascot_face" android:pathData="M30,58 a30,30 0 1,0 60,0 a30,30 0 1,0 -60,0" />
+    <!-- brows very steep, eyes squeezed shut -->
+    <path android:strokeColor="@color/mascot_ink" android:strokeWidth="4" android:strokeLineCap="round"
+        android:pathData="M42,40 L56,48 M64,48 L78,40" />
+    <path android:strokeColor="@color/mascot_ink" android:strokeWidth="3.5" android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M45,52 L53,56 L45,60 M75,52 L67,56 L75,60" />
+    <!-- mouth open, shouting -->
+    <path android:fillColor="@color/mascot_ink" android:pathData="M51,71 a9,7 0 1,0 18,0 a9,7 0 1,0 -18,0" />
+    <!-- ringing hard + shake lines -->
+    <path android:strokeColor="@color/text" android:strokeWidth="3" android:strokeLineCap="round"
+        android:pathData="M11,6 Q5,15 9,26 M5,2 Q-1,16 3,30 M109,6 Q115,15 111,26 M115,2 Q121,16 117,30 M22,112 L32,112 M88,112 L98,112 M4,54 L10,58 M116,54 L110,58" />
+</vector>
